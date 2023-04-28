@@ -1,0 +1,35 @@
+<div class="test-server">
+                                <h1 data-aos="fade-up" class="aos-init aos-animate">Test server, convince yourself</h1>
+                                <div class="row">
+                                    <div class="col-sm-6 col-md-4" style="padding-left: 38px;padding-right: 38px;">
+                                        <div class="card aos-init aos-animate" data-aos="zoom-in-up">
+                                            <div class="card-body test-1">
+                                                <h4 class="game">Counter Strike 1.6 <span class="pulse"></span></h4>
+                                                <p class="ip"><span id="ip1">177.54.152.22:27015</span> <a data-toggle="tooltip" data-placement="top" title="Copy" onclick="copyToClipboard('#ip1')"><i class="far fa-copy"></i></a></p>
+                                                <h4 class="player">Players</h4>
+                                                <span class="player-number">32 / 32</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-4" style="padding-left: 38px;padding-right: 38px;">
+                                        <div class="card aos-init aos-animate" data-aos="zoom-in-up">
+                                            <div class="card-body test-2">
+                                                <h4 class="game">Minecraft <span class="pulse"></span></h4>
+                                                <p class="ip"><span id="ip2">178.33.168.228:25565</span> <a data-toggle="tooltip" data-placement="top" title="Copy" onclick="copyToClipboard('#ip2')"><i class="far fa-copy"></i></a></p>
+                                                <h4 class="player">Players</h4>
+                                                <span class="player-number">326 / 2000</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-4" style="padding-left: 38px;padding-right: 38px;">
+                                        <div class="card aos-init aos-animate" data-aos="zoom-in-up">
+                                            <div class="card-body test-3">
+                                                <h4 class="game">Team Fortress 2 <span class="pulse"></span></h4>
+                                                <p class="ip"><span id="ip3">74.91.124.167:27015</span> <a data-toggle="tooltip" data-placement="top" title="Copy" onclick="copyToClipboard('#ip3')"><i class="far fa-copy"></i></a></p>
+                                                <h4 class="player">Players</h4>
+                                                <span class="player-number">30 / 32</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
